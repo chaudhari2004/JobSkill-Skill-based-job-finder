@@ -23,13 +23,18 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java, Spring MVC, Hibernate ORM  
-- **Database:** MySQL (JDBC)  
-- **Server:** Apache Tomcat 7  
-- **IDE:** Eclipse  
-- **Dev Tools:** XAMPP for local database setup  
+<table>
+  <tr>
+    <td align="center"><b>Java</b><br>🟧<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td align="center"><b>Spring MVC</b><br>🌿<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></td>
+    <td align="center"><b>Hibernate</b><br>🛠️<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/></td>
+    <td align="center"><b>MySQL</b><br>🗄️<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td align="center"><b>Tomcat</b><br>🐱<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40"/></td>
+    <td align="center"><b>Eclipse</b><br>💡<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/></td>
+    <td align="center"><b>XAMPP</b><br>⚡<br><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" width="40"/></td>
+  </tr>
+</table>
 
----
 
 ## 📚 What You'll Learn
 
